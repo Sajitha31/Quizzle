@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">QUIZZLE</string>
+    <string name="welcome">Welcome</string>
+    <string name="start">START</string>
+    <string name="nxt">NEXT QUESTION</string>
+    <string name="name">Enter your name</string>
+    <string name="about">ABOUT</string>
+    <string name="about_des">Quizzle is an android quiz application developed using java. It is a platform which helps users in practicing different questions and also for conducting different quiz competitions</string>
+    <string name="developer">DEVELOPER</string>
+    <string name="quit">QUIT</string>
+    <string name="score">Your Score</string>
+    <string name="count">0</string>
+    <string name="q_count1">Question 1</string>
+    <string name="q_count2">Question 2</string>
+    <string name="q_count3">Question 3</string>
+    <string name="q_count4">Question 4</string>
+    <string name="q_count5">Question 5</string>
+    <string name="q1">Which method can be defined only once in a program?</string>
+    <string name="op1">finalize method</string>
+    <string name="op2">main method</string>
+    <string name="op3">static method</string>
+    <string name="op4">private method</string>
+    <string name="q2">Which keyword is used by method to refer to the current object that invoked it?</string>
+    <string name="op21">import</string>
+    <string name="op22">this</string>
+    <string name="op23">catch</string>
+    <string name="op24">abstract</string>
+    <string name="q3">Which of these access specifiers can be used for an interface?</string>
+    <string name="op31">public</string>
+    <string name="op32">protected</string>
+    <string name="op33">private</string>
+    <string name="op34">All of the mentioned</string>
+    <string name="q4">Which of the following is correct way of importing an entire package ‘pkg’?</string>
+    <string name="op41">Importpkg.</string>
+    <string name="op42">importpkg.*</string>
+    <string name="op43">Importpkg*</string>
+    <string name="op44">importpkg.</string>
+    <string name="q5">What is the return type of Constructors?</string>
+    <string name="op51">int</string>
+    <string name="op52">float</string>
+    <string name="op53">void</string>
+    <string name="op54">None of the mentioned</string>
+
+</resources>
